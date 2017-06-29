@@ -2,6 +2,7 @@
 
 	https://golangbot.com/learn-golang-series/
 	http://docs.ruanjiadeng.com/gopl-zh/ch5/ch5-01.html
+	http://www.ctolib.com/docs/sfile/go-internals/01.0.html
 
 ### Hello World
 
