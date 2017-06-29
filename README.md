@@ -1,6 +1,7 @@
 ## go tutorial serices
 
 	https://golangbot.com/learn-golang-series/
+	http://docs.ruanjiadeng.com/gopl-zh/ch5/ch5-01.html
 
 ### Hello World
 
